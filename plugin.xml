@@ -2,8 +2,9 @@
   <author>Scott Bortman</author>
   <authorEmail>scott.bortman@gmail.com</authorEmail>
   <title>PostGIS</title>
-  <description>    Adding support for PostGIS datatypes in domain classes
-    </description>
+  <description>
+    Adding support for PostGIS datatypes in domain classes
+  </description>
   <documentation>http://grails.org/Postgis+Plugin</documentation>
   <resources>
     <resource>BuildConfig</resource>
